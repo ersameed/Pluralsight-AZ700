@@ -9,3 +9,12 @@ az network vnet create -g pluralsight -n ps-spoke-vnet --address-prefix 172.18.0
 
 # add subnet
 az network vnet subnet create -n data --vnet-name ps-spoke-vnet -g pluralsight --address-prefixes "172.18.2.0/24"
+
+#Create rg using powershell
+New-AzResourceGroup -n ps-vnet-rg -l eastus
+
+#Check Azure account context
+get-azcontext | fl
+
+#Create vnet with json file
+New-AzResourceGroupDeployment -name ps-vnet -ResourceGroup ps-vnet-rg -TemplateFile .\vnet.json -TemplateParameterFile .\vnet.parameters.json -whatif
