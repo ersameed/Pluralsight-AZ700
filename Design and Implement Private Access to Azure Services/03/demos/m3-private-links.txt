@@ -1,0 +1,31 @@
+Module 3: Configure VNet Integration for Dedicated PaaS Services
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Overview - Azure App Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/overview
+
+Integrate app with Azure Virtual Network - Azure App Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet
+
+Networking features - Azure App Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/networking-features
+
+Concepts - Networking in Azure Kubernetes Services (AKS) - Azure Kubernetes Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/aks/concepts-network
+
+Create a private Azure Kubernetes Service cluster - Azure Kubernetes Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/aks/private-clusters
+
+Introduction - Azure App Service Environment | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/environment/intro
+
+App Service Environment overview - Azure App Service Environment | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/environment/overview
+
+Use and manage an App Service Environment - Azure App Service Environment | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/environment/using-an-ase

@@ -1,0 +1,40 @@
+Module 2: Implement and Manage Network Security Groups
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Azure network security groups overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+Azure application security groups overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/application-security-groups
+
+Network security group - how it works | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works
+
+Filter network traffic - tutorial - Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic
+
+Create, change, or delete an Azure network security group | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group
+
+Introduction to flow logging for NSGs - Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-overview
+
+Azure traffic analytics | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics
+
+Introduction to next hop in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-next-hop-overview
+
+Introduction to IP flow verify in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-ip-flow-verify-overview
+
+Introduction to Effective security rules view in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-security-group-view-overview
+
+Introduction to Network Configuration Diagnostics in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-network-configuration-diagnostics-overview

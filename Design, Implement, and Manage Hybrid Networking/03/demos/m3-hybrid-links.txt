@@ -1,0 +1,52 @@
+Module 3: Design, Implement, and Manage Azure ExpressRoute
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+ExpressRoute documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/
+
+Azure ExpressRoute: circuits and peering | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-circuit-peerings
+
+Azure ExpressRoute: Connectivity models | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-connectivity-models
+
+Quickstart: Create and modify a circuit with ExpressRoute - Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager
+
+Pricing - ExpressRoute | Microsoft Azure
+https://azure.microsoft.com/en-us/pricing/details/expressroute/
+
+About Azure ExpressRoute Direct | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about
+
+About Azure ExpressRoute FastPath | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/about-fastpath
+
+Azure ExpressRoute: Connect to Microsoft Cloud using Global Reach | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-global-reach
+
+Azure ExpressRoute: Reset circuit peering | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-reset-peering
+
+Connectivity providers and locations: Azure ExpressRoute | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-locations
+
+Locations and connectivity providers: Azure ExpressRoute | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-locations-providers
+
+Azure ExpressRoute: circuits and peering | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-circuit-peerings
+
+Azure ExpressRoute: Configure MACsec | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-macsec
+
+Configure ExpressRoute encryption: IPsec over ExpressRoute for Azure Virtual WAN | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/vpn-over-expressroute
+
+Encrypting ExpressRoute for improved security | Lucian Franghiu's blog
+https://lucian.blog/encrypting-expressroute-for-improved-security/

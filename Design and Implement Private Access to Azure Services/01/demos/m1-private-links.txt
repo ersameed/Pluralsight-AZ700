@@ -1,0 +1,22 @@
+Module 1: Design and Implement Azure Service Endpoints
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Azure virtual network service endpoints | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
+
+Azure virtual network service endpoints | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
+
+Azure virtual network service endpoint policies | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-overview
+
+Azure network security groups overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+Azure application security groups overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/application-security-groups

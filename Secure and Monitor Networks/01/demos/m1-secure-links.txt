@@ -1,0 +1,37 @@
+Module 1: Design, Implement, and Manage an Azure Firewall Deployment
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Pluralsight CompTIA Network+ Skill Path
+https://www.pluralsight.com/paths/comptia-network-n10-007
+
+What is Azure Firewall? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/overview
+
+Azure Firewall Pricing
+https://azure.microsoft.com/en-us/pricing/details/firewall-manager/
+
+Azure Firewall features | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/features
+
+Azure Firewall rule processing logic | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/rule-processing
+
+What is Azure Firewall Manager? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/overview
+
+Azure Firewall Manager policy overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/policy-overview
+
+What is a secured virtual hub? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub
+
+Tutorial: Secure your virtual hub using Azure Firewall Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network
+
+Deploy an Azure Firewall Manager security partner provider | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/deploy-trusted-security-partner

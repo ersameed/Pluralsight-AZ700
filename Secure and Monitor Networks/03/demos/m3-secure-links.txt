@@ -1,0 +1,40 @@
+Module 3: Implement a Web Application Firewall Deployment
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Web Application Firewall documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/web-application-firewall/
+
+Web Application Firewall | Microsoft Azure
+https://azure.microsoft.com/en-us/services/web-application-firewall/
+
+What is Azure Application Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/overview
+
+Azure Front Door | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview
+
+OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/
+
+What is Azure Web Application Firewall on Azure Application Gateway? - Azure Web Application Firewall | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+
+What is Azure web application firewall on Azure Front Door? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview
+
+Azure Web Application Firewall monitoring and logging | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-monitor
+
+Examine WAF logs using Azure Log Analytics - Azure Application Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/log-analytics
+
+Create and use v2 custom rules - Azure Web Application Firewall | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/create-custom-waf-rules
+
+Azure WAF Custom Rule Samples and Use Cases - Microsoft Tech Community
+https://techcommunity.microsoft.com/t5/azure-network-security/azure-waf-custom-rule-samples-and-use-cases/ba-p/2033020

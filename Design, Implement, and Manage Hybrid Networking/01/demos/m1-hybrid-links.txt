@@ -1,0 +1,55 @@
+Module 1: Design, Implement, and Manage a S2S VPN
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Azure Arc | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-arc/
+
+Azure Architecture Center - Azure Architecture Center | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/
+
+VPN Gateway Pricing | Microsoft Azure
+https://azure.microsoft.com/en-us/pricing/details/vpn-gateway/
+
+VPN Gateway documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/
+
+Tutorial - Connect on-premises network to virtual network: Azure portal - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal
+
+Azure Virtual WAN Overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about
+
+About VPN devices for connections - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-devices
+
+Partner VPN device configurations for connecting to Azure VPN gateways | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-overview
+
+IPsec/IKE policy for S2S VPN & VNet-to-VNet connections: PowerShell - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell
+
+Test-NetConnection (NetTCPIP) | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2019-ps
+
+Diagnose On-Premises connectivity via VPN gateway - Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity
+
+Configure alerts on diagnostic resource log events - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-setup-alerts-virtual-network-gateway-log
+
+Troubleshooting Azure VPN Gateway using diagnostic logs | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-vpn-with-azure-diagnostics
+
+Create, view, and manage log alerts Using Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-log
+
+Log alerts in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-unified-log
+
+The Basics of Kusto Query Language | Pluralsight
+https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch

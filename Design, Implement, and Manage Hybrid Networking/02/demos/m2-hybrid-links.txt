@@ -1,0 +1,40 @@
+Module 2: Design, Implement, and Manage a P2S VPN Connection
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+About Azure Point-to-Site VPN connections - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about
+
+Connect to a VNet using P2S VPN & certificate authentication: portal - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal
+
+Create & install P2S VPN client configuration files: certificate authentication - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-azure-cert
+
+Azure VPN Client
+https://www.microsoft.com/en-us/p/azure-vpn-client/9np355qt2sqb?activetab=pivot:overviewtab
+
+Public preview of Azure VPN Client for macOS
+https://azure.microsoft.com/en-us/updates/public-preview-of-azure-vpn-client-for-macos/
+
+Connect a computer to a virtual network using Point-to-Site and RADIUS authentication: PowerShell - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-radius-ps
+
+Create an Azure AD tenant for P2S VPN connections: Azure AD authentication - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant
+
+Configure Azure AD authentication for User VPN connection: Virtual WAN | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad
+
+Troubleshoot Point-to-Site VPN clients - Azure AD authentication - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-ad-vpn-client
+
+Troubleshoot configurations and connections - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot
+
+Configure VPN clients for P2S OpenVPN protocol connections: Azure AD authentication - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-client

@@ -1,0 +1,25 @@
+Module 2: Design and Implement the Azure Private Link Service
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+What is an Azure Private Endpoint? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview
+
+What is Azure Private Link service? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/private-link/private-link-service-overview
+
+What is Azure Private Link? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/private-link/private-link-overview
+
+Azure Private Endpoint DNS configuration | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns
+
+Manage a Private Endpoint connection in Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/private-link/manage-private-endpoint
+
+Service Endpoints and Private Link - What's the difference? - samcogan.com
+https://samcogan.com/service-endpoints-and-private-link-whats-the-difference/

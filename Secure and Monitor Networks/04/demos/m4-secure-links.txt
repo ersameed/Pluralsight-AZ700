@@ -1,0 +1,46 @@
+Module 4: Monitor Networks
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+KQL Online Course: The Basics of Kusto Query Language | Pluralsight
+https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch
+
+Microsoft Azure Watcher Web Security Tools | Pluralsight
+https://www.pluralsight.com/courses/azure-network-watcher-troubleshooting
+
+Monitoring Microsoft Azure Resources and Workloads | Pluralsight
+https://www.pluralsight.com/courses/microsoft-azure-resources-workloads-monitoring-update
+
+Azure Monitor Workbooks Overview - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview
+
+Azure Monitor Network Insights - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-insights-overview
+
+Monitor logs using Azure Firewall Workbook | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/firewall-workbook
+
+Azure Network Watcher Documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/
+
+Connection Monitor in Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/connection-monitor-overview
+
+Keyword Query Language (KQL) syntax reference | Microsoft Docs
+https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
+
+KQL quick reference | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference
+
+Azure Resource Graph documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/governance/resource-graph/
+
+Overview of Azure Resource Graph - Azure Resource Graph | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/governance/resource-graph/overview
+
+Overview of alerting and notification monitoring in Azure - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview

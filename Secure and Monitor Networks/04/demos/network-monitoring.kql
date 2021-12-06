@@ -1,0 +1,84 @@
+// Azure Networking Monitoring
+// Author: Tim Warner (timothy-warner@pluralsight.com)
+
+// Use Resource Graph Explorer (Ref: https://timw.info/5hp)
+
+// Resources sorted by name
+Resources
+| project name, type, location
+| order by name asc
+
+// VMs by OS type
+Resources
+| where type =~ 'Microsoft.Compute/virtualMachines'
+| summarize count() by tostring(properties.storageProfile.osDisk.osType)
+
+// Public IPs
+Resources
+| where type contains 'publicIPAddresses' and isnotempty(properties.ipAddress)
+| project properties.ipAddress
+| limit 100
+
+// Resources with specific tag value
+Resources
+| where tags.environment=~'internal'
+| project name
+
+// Key vaults with subscription name
+Resources
+| join kind=leftouter (ResourceContainers | where type=='microsoft.resources/subscriptions' | project SubName=name, subscriptionId) on subscriptionId
+| where type == 'microsoft.keyvault/vaults'
+| project type, name, SubName
+
+// List SQL databases
+Resources
+| where type =~ 'microsoft.sql/servers/databases'
+| project databaseId = id, databaseName = name, elasticPoolId = tolower(tostring(properties.elasticPoolId))
+| join kind=leftouter (
+    Resources
+    | where type =~ 'microsoft.sql/servers/elasticpools'
+    | project elasticPoolId = tolower(id), elasticPoolName = name, elasticPoolState = properties.state)
+on elasticPoolId
+| project-away elasticPoolId1
+
+// VMs with network interface and public IP
+Resources
+| where type =~ 'microsoft.compute/virtualmachines'
+| extend nics=array_length(properties.networkProfile.networkInterfaces)
+| mv-expand nic=properties.networkProfile.networkInterfaces
+| where nics == 1 or nic.properties.primary =~ 'true' or isempty(nic)
+| project vmId = id, vmName = name, vmSize=tostring(properties.hardwareProfile.vmSize), nicId = tostring(nic.id)
+| join kind=leftouter (
+    Resources
+    | where type =~ 'microsoft.network/networkinterfaces'
+    | extend ipConfigsCount=array_length(properties.ipConfigurations)
+    | mv-expand ipconfig=properties.ipConfigurations
+    | where ipConfigsCount == 1 or ipconfig.properties.primary =~ 'true'
+    | project nicId = id, publicIpId = tostring(ipconfig.properties.publicIPAddress.id))
+on nicId
+| project-away nicId1
+| summarize by vmId, vmName, vmSize, nicId, publicIpId
+| join kind=leftouter (
+    Resources
+    | where type =~ 'microsoft.network/publicipaddresses'
+    | project publicIpId = id, publicIpAddress = properties.ipAddress)
+on publicIpId
+| project-away publicIpId1
+
+// All extensions loaded on a VM
+Resources
+| where type == 'microsoft.compute/virtualmachines'
+| extend
+    JoinID = toupper(id),
+    OSName = tostring(properties.osProfile.computerName),
+    OSType = tostring(properties.storageProfile.osDisk.osType),
+    VMSize = tostring(properties.hardwareProfile.vmSize)
+| join kind=leftouter(
+    Resources
+    | where type == 'microsoft.compute/virtualmachines/extensions'
+    | extend
+        VMId = toupper(substring(id, 0, indexof(id, '/extensions'))),
+        ExtensionName = name
+) on $left.JoinID == $right.VMId
+| summarize Extensions = make_list(ExtensionName) by id, OSName, OSType, VMSize
+| order by tolower(OSName) asc
