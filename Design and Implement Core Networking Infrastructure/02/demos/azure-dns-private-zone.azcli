@@ -1,0 +1,36 @@
+# Azure DNS Private Zones with Azure CLI
+# Ref: https://timw.info/2d4
+
+# create resource group
+az group create --name MyAzureResourceGroup --location "East US"
+
+# create private zone
+az network vnet create \
+  --name myAzureVNet \
+  --resource-group MyAzureResourceGroup \
+  --location eastus \
+  --address-prefix 10.2.0.0/16 \
+  --subnet-name backendSubnet \
+  --subnet-prefixes 10.2.0.0/24
+
+az network private-dns zone create -g MyAzureResourceGroup \
+   -n private.contoso.com
+
+az network private-dns link vnet create -g MyAzureResourceGroup -n MyDNSLink \
+   -z private.contoso.com -v myAzureVNet -e true
+
+# list private zone
+az network private-dns zone list \
+  -g MyAzureResourceGroup
+
+# create a DNS record
+az network private-dns record-set a add-record \
+  -g MyAzureResourceGroup \
+  -z private.contoso.com \
+  -n db \
+  -a 10.2.0.4
+
+# view DNS records
+az network private-dns record-set list \
+  -g MyAzureResourceGroup \
+  -z private.contoso.com

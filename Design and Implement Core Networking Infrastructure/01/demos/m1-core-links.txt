@@ -1,0 +1,73 @@
+Module 1: Design and Implement Private IP Addressing for VNets
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+RFC 1918
+https://datatracker.ietf.org/doc/html/rfc1918
+
+Overview of IPv6 for Azure Virtual Network | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/ipv6-overview
+
+Private IP addresses in Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/private-ip-addresses
+
+Public IP addresses in Azure - Azure Virtual Network | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
+
+Network+ (Plus) Certification | CompTIA IT Certifications
+https://www.comptia.org/certifications/network
+
+CompTIA Network+ (N10-007) | Pluralsight
+https://www.pluralsight.com/paths/comptia-network-n10-007
+
+Azure subscription limits and quotas - Azure Resource Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
+
+What is IP address 168.63.129.16? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16
+
+What is Azure Virtual Network NAT? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview
+
+Name resolution for resources in Azure virtual networks | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances
+
+What is Azure Private DNS? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/private-dns-overview
+
+What is subnet delegation in Azure virtual network? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview
+
+Hub-spoke network topology in Azure - Azure Reference Architectures | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli
+
+Azure virtual network traffic routing | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+Create, change, or delete an Azure network interface | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface
+
+What is Azure Route Server (Preview)? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/route-server/overview
+
+Azure Resource Manager template reference - ARM template reference | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/templates/
+
+Quickstart: Create a virtual network using a Resource Manager template - Azure Virtual Network | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-template
+
+Bicep language for deploying Azure resources - Azure Resource Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview
+
+New-AzResourceGroupDeployment (Az.Resources) | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/module/az.resources/new-azresourcegroupdeployment?view=azps-6.2.1
+
+Template deployment what-if - Azure Resource Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-what-if?tabs=azure-powershell
+
+Azure Blueprints documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/governance/blueprints/

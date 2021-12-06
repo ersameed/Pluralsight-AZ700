@@ -1,0 +1,49 @@
+Module 3: Design and Implement Cross-VNet Connectivity
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Configure VPN gateway transit for virtual network peering - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit
+
+Choosing between Azure VNet Peering and VNet Gateways | Azure Blog and Updates | Microsoft Azure
+https://azure.microsoft.com/en-us/blog/vnet-peering-and-vpn-gateways/
+
+Choose between virtual network peering and VPN gateways - Azure Reference Architectures | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/vnet-peering
+
+Azure Virtual Network peering | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+
+Configure a VNet-to-VNet VPN gateway connection: Azure portal - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal
+
+Azure virtual network traffic routing | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+Create, change, or delete an Azure route table | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-route-table
+
+Deploy highly available NVAs - Azure Architecture Center | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha?tabs=cli
+
+Deploy & configure Azure Firewall using the Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal
+
+PowerShell Documentation - PowerShell | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/
+
+Azure Command-Line Interface (CLI) - Overview | Microsoft Docs
+https://docs.microsoft.com/en-us/cli/azure/
+
+Create, change, or delete an Azure route table | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-route-table
+
+Azure Bastion | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/bastion/bastion-overview
+
+Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview

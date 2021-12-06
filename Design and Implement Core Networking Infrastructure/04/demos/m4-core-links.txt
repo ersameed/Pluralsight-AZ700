@@ -1,0 +1,49 @@
+Module 4: Design and Implement an Azure Virtual WAN Architecture
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Azure Virtual WAN Overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about
+
+Tutorial: Use Azure Virtual WAN to Create Site-to-Site connections | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal
+
+How to configure virtual hub routing - Azure Virtual WAN | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/how-to-virtual-hub-routing
+
+About virtual hub routing - Azure Virtual WAN | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing
+
+Connect a virtual network gateway to an Azure Virtual WAN | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/connect-virtual-network-gateway-vwan
+
+What is a secured virtual hub? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub
+
+Azure Virtual WAN FAQ | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq
+
+What is Azure Firewall Manager? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/overview
+
+Tutorial: Secure your virtual hub using Azure Firewall Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network
+
+Azure Virtual WAN partners and locations | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-locations-partners
+
+Running SD-WAN virtual appliances natively in Azure Virtual WAN
+https://azure.microsoft.com/en-us/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/
+
+Bicep language for deploying Azure resources - Azure Resource Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview
+
+Bicep language for deploying Azure resources - Azure Resource Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview
+
+About Virtual WAN pricing - Azure Virtual WAN | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/pricing-concepts

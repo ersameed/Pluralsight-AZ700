@@ -1,0 +1,9 @@
+Module 2: Design and Implement Name Resolution
+
+* Clip 01: Overview
+* Clip 02: Azure VNet Name Resolution
+* Clip 03: Demo - Configure Azure Name Resolution
+* Clip 04: Azure DNS Public Zones
+* Clip 05: Azure DNS Private Zones
+* Clip 06: Demo - Work with Azure DNS Private Zones
+* Clip 07: Summary

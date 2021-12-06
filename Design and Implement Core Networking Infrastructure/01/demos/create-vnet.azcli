@@ -1,0 +1,11 @@
+# Create vnet with Azure CLI
+# Ref: https://timw.info/bsl
+
+# create the resource group
+az group create --name pluralsight --location eastus
+
+# create the virtual network with one subnet
+az network vnet create -g pluralsight -n ps-spoke-vnet --address-prefix 172.18.0.0/16 --subnet-name workload --subnet-prefix 172.18.1.0/24
+
+# add subnet
+az network vnet subnet create -n data --vnet-name ps-spoke-vnet -g pluralsight --address-prefixes "172.18.2.0/24"
