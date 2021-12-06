@@ -1,0 +1,46 @@
+Module 1: Design, Implement, and Manage VNet Routing
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+CompTIA Network+ (N10-007) | Pluralsight
+https://www.pluralsight.com/paths/comptia-network-n10-007
+
+CCNA Certification Training and Courses | Pluralsight
+https://www.pluralsight.com/browse/it-ops/it-certifications/cisco-certifications/cisco-ccna
+
+Azure virtual network traffic routing | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+Route network traffic - tutorial - Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal
+
+Create, change, or delete an Azure route table | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-route-table
+
+What is Azure Route Server? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/route-server/overview
+
+Configure forced tunneling for Site-to-Site connections - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-forced-tunneling-rm
+
+Azure Firewall forced tunneling | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/forced-tunneling
+
+Introduction to next hop in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-next-hop-overview
+
+Introduction to next hop in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-next-hop-overview
+
+Diagnose an Azure virtual machine routing problem | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/diagnose-network-routing-problem
+
+Hub-spoke network topology in Azure - Azure Reference Architectures | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli
+
+Hub-and-spoke network topology - Cloud Adoption Framework | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/hub-spoke-network-topology

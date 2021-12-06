@@ -1,0 +1,11 @@
+Module 6: Design and Implement Azure Virtual Network NAT
+
+* Clip 01: Overview
+* Clip 02: Default Outbound Access IP Mechanism
+* Clip 03: SNAT and PAT
+* Clip 04: Azure Virtual Network NAT
+* Clip 05: Outbound Public IP Addresses
+* Clip 06: Deploy NAT Gateway with Bicep
+* Clip 07: Combating SNAT Port Exhaustion
+* Clip 08: Demo - Deploy Azure Virtual Network NAT
+* Clip 09: Summary

@@ -1,0 +1,10 @@
+Module 3: Design and Implement Azure Application Gateway
+
+* Clip 01: Overview
+* Clip 02: Azure Application Gateway Features
+* Clip 03: Application Gateway Components
+* Clip 04: Demo - Deploy Application Gateway
+* Clip 05: Application Gateway End-to-End TLS
+* Clip 06: Application Gateway Redirection & Rewrite
+* Clip 07: Demo - Configure Application Gateway
+* Clip 08: Summary

@@ -1,0 +1,46 @@
+Module 2: Design and Implement an Azure Load Balancer
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+What is Azure Load Balancer? - Azure Load Balancer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+Load-balancing options - Azure Application Architecture Guide | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
+
+Azure Load Balancer components | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/components
+
+Tutorial: Configure port forwarding - Azure portal - Azure Load Balancer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-port-forwarding-portal
+
+Outbound rules Azure Load Balancer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/outbound-rules
+
+Microsoft.Network/loadBalancers - Bicep & ARM template reference | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/templates/microsoft.network/loadbalancers?tabs=bicep
+
+Quickstart: Create a public load balancer - Azure template - Azure Load Balancer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-template
+
+Bicep language for deploying Azure resources - Azure Resource Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview
+
+Discover Bicep on Microsoft Learn - Azure Resource Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep
+
+ARM Templates Tutorial | Infrastructure as Code (IaC) for Beginners | Azure Resource Manager - YouTube
+https://www.youtube.com/watch?v=Ge_Sp-1lWZ4
+
+Cross-region load balancer (preview) - Azure Load Balancer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/cross-region-overview
+
+What is Azure Virtual Network NAT? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview
+
+What is Azure Application Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/overview

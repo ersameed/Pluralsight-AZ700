@@ -1,0 +1,31 @@
+Module 5: Implement an Azure Traffic Manager Profile
+
+Microsoft Certified: Azure Network Engineer Associate - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/
+
+Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta) - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-700
+
+Azure Traffic Manager | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview
+
+Host load-balanced Azure web apps at the zone apex | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/dns-alias-appservice
+
+Azure Traffic Manager - traffic routing methods | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods
+
+Traffic Manager Endpoint Types | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-endpoint-types
+
+Azure — Difference between Traffic Manager and Front Door Service | by Ashish Patel | Awesome Azure | Medium
+https://medium.com/awesome-azure/azure-difference-between-traffic-manager-and-front-door-service-in-azure-4bd112ed812f
+
+Azure Front Door - Load Balancing with Azure's application delivery suite | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/frontdoor/front-door-lb-with-azure-app-delivery-suite
+
+Tutorial: Map existing custom DNS name - Azure App Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain?tabs=cname
+
+Secure a custom DNS with a TLS/SSL binding - Azure App Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-bindings

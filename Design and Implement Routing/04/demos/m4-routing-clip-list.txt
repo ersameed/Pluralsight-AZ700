@@ -1,0 +1,11 @@
+Module 4: Implement Azure Front Door
+
+* Clip 01: Overview
+* Clip 02: Azure Front Door Architecture
+* Clip 03: Azure Front Door SKUs
+* Clip 04: Configuring Front Door
+* Clip 05: Load Balancing the Apex Domain
+* Clip 06: Demo - Deploy a Front Door
+* Clip 07: Demo - Map a Custom Domain to Front Door
+* Clip 08: Demo - Configure Custom Routing Rules
+* Clip 09: Summary
