@@ -1,0 +1,30 @@
+// Examine VNet gateway configuration changes
+AzureDiagnostics
+| where Category == "GatewayDiagnosticLog"
+| project TimeGenerated, OperationName, Message, Resource,
+ResourceGroup
+| sort by TimeGenerated asc
+
+// Inspect historical connectivity status of the gateway
+AzureDiagnostics
+| where Category == "TunnelDiagnosticLog"
+| project TimeGenerated, OperationName, instance_s, Resource,
+ResourceGroup
+| sort by TimeGenerated asc
+
+// Trace static or BGP-derived routes
+AzureDiagnostics
+| where Category == "RouteDiagnosticLog"
+| project TimeGenerated, OperationName, Message, Resource,
+ResourceGroup
+
+// Verbose IPSec/IKE logging
+AzureDiagnostics
+| where Category == "IKEDiagnosticLog"
+| extend Message1=Message
+| parse Message with * "Remote " RemoteIP ":" * "500: Local "
+LocalIP ":" * "500: " Message2
+| extend Event = iif(Message has
+"SESSION_ID",Message2,Message1)
+| project TimeGenerated, RemoteIP, LocalIP, Event, Level
+| sort by TimeGenerated asc
