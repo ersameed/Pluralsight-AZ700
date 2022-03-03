@@ -1,0 +1,34 @@
+{
+    "Name":  "Network Custom RBAC",
+    "Id":  null,
+    "IsCustom":  true,
+    "Description":  "Network Training Custom Role.",
+    "Actions":  [
+                    "Microsoft.Network/expressRouteCircuits/read",
+                    "Microsoft.Network/expressRouteCircuits/write",
+                    "Microsoft.Network/expressRouteCircuits/join/action",	
+                    "Microsoft.Network/expressRouteCircuits/delete",
+                    "Microsoft.Resources/subscriptions/resourceGroups/read",
+                    "Microsoft.Network/virtualNetworks/read",	
+                    "Microsoft.Network/virtualNetworks/write",	
+                    "Microsoft.Network/virtualNetworks/delete",
+                    "Microsoft.Network/virtualNetworks/join/action",
+                    "Microsoft.Network/virtualNetworks/subnets/read",
+                    "Microsoft.Network/virtualNetworks/subnets/write",
+                    "Microsoft.Resources/deployments/validate/action",
+                    "Microsoft.Resources/deployments/validate/action",
+                    "Microsoft.Resources/deployments/write",
+                    "Microsoft.Resources/deployments/read",
+                    "Microsoft.Network/publicIPAddresses/read",
+                    "Microsoft.Network/publicIPAddresses/write",
+                    "Microsoft.Network/publicIPAddresses/join/action",
+                    "Microsoft.Network/virtualNetworkGateways/write",
+                    "Microsoft.Network/virtualNetworkGateways/read"
+                ],
+    "NotActions":  [
+                    "Microsoft.Authorization/*",
+                    "Microsoft.Authorization/*/read"
+                   ]
+}
+
+ 
